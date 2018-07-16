@@ -147,6 +147,19 @@ function movies() {
 /* Section for do-what-it-says */
 function doWhatItSays() {
 
+    fs.readFile("random.txt", "utf8", function (err, data){
+        if (err) {
+            return console.log(err);
+            
+        }
+
+        choices = data
+        
+       seeSongs();
+        
+
+    });
+
 }
 
 switch (process.argv[2]) {
