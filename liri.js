@@ -30,12 +30,14 @@ function seeTweets() {
 /* Section for spotify-this-song */
 function seeSongs() {
 
-   
+   if (!choices) {
+       choices = "The Sign Ace of Base";
+   }
 
     
     //var songName = process.argv[3];
 
-    spotify.search({ type: 'track', query: choices }, function (err, data) {
+    spotify.search({ type: 'track', query: choices, limit: 10 }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         
@@ -95,19 +97,12 @@ function movies() {
 
 
             console.log("Title: " + JSON.parse(body).Title);
-
             console.log("Release Year: " + JSON.parse(body).Year);
-
             console.log("IMDB Rating: " + JSON.parse(body).imdbRating);
-
             console.log("Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value);
-
             console.log("Produced In: " + JSON.parse(body).Country);
-
             console.log("Language: " + JSON.parse(body).Language);
-
             console.log("Plot: " + JSON.parse(body).Plot);
-
             console.log("List of Actors: " + JSON.parse(body).Actors);
 
 

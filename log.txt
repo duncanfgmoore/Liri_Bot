@@ -1,24 +1,44 @@
 
 
-Title: Shrek
-Release Year: 2001
+Artist: Rawayana
+Title: Hoy (feat. Pyscho & MC Klopedia)
+Preview URL: https://p.scdn.co/mp3-preview/fa56b246febf00a95eaaf9cf663f5f709a2773a0?cid=915d1cd8569749529e10f982645c00aa
+Album: RawayanaLand
+
+Artist: Jeremih
+Preview URL: null
+Title: The Light
+Album: The Light
+
+Artist: Ace of Base
+Title: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=915d1cd8569749529e10f982645c00aa
+Album: The Sign (US Album) [Remastered]
+
+Artist: Ace of Base
+Title: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=915d1cd8569749529e10f982645c00aa
+Album: The Sign (US Album) [Remastered]
+
+Artist: Post Malone
+Title: Psycho (feat. Ty Dolla $ign)
+Preview URL: null
+Album: beerbongs & bentleys
+
+Title: Mr. Nobody
+Release Year: 2009
 IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+
+Title: Shrek 2
+Release Year: 2004
+IMDB Rating: 7.2
 Rotten Tomatoes Rating: 88%
 
-Artist: Post Malone
-Preview URL: null
-Title: Psycho (feat. Ty Dolla $ign)
-Album: beerbongs & bentleys
-
-Artist: Post Malone
-Title: Psycho (feat. Ty Dolla $ign)
-Preview URL: null
-Album: beerbongs & bentleys
-
-Artist: Backstreet Boys
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=915d1cd8569749529e10f982645c00aa
-Title: I Want It That Way
-Album: The Hits--Chapter One
+Title: Point Break
+Release Year: 1991
+IMDB Rating: 7.2
+Rotten Tomatoes Rating: 68%
 
 Artist: Backstreet Boys
 Title: I Want It That Way
