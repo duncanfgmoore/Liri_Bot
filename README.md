@@ -40,7 +40,7 @@ This will show your last 20 tweets and when they were created at in your termina
     * Plot of the movie.
     * Actors in the movie.
     * Rotten Tomatoes Rating.
-    * Rotten Tomatoes URL.
+ 
 
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
