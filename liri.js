@@ -35,7 +35,7 @@ function seeSongs() {
    }
 
     
-    //var songName = process.argv[3];
+   
 
     spotify.search({ type: 'track', query: choices, limit: 10 }, function (err, data) {
         if (err) {
@@ -86,7 +86,7 @@ function movies() {
     }
 
 
-    //var movieName = process.argv[3];
+    
     var queryUrl = "http://www.omdbapi.com/?t=" + choices + "&y=&plot=short&apikey=trilogy"
 
    
